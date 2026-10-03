@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of luuhai48/gmail-oauth2.** Not for installation: use [Packagist](https://packagist.org/packages/luuhai48/gmail-oauth2) or the [upstream repository](https://github.com/luuhai48/gmail-oauth2).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/luuhai48-gmail-oauth2/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/luuhai48-gmail-oauth2/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2022-01-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/luuhai48-gmail-oauth2/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/luuhai48-gmail-oauth2.json](https://github.com/flarchive/archive-index/blob/main/packages/luuhai48-gmail-oauth2.json)
 
